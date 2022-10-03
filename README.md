@@ -6,3 +6,5 @@ This repo contains all the Accenture pre hiring learning modules - tekstac progr
 This seems to essentail in terms of training purpose.
 
 More assignments needs to be added.
+
+Accenture assignmnets.
